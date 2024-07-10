@@ -1,10 +1,10 @@
 # FHE-with-EEC
 
 ## Prerequisites
-OS: Windows_NT x64 10.0.22631
-Distributor ID: Ubuntu
-Description:    Ubuntu 20.04.6 LTS
-Release:        20.04
+* OS: Windows_NT x64 10.0.22631
+* Distributor ID: Ubuntu
+* Description:    Ubuntu 20.04.6 LTS
+* Release:        20.04
 
 ```
 pip install -r requirements.txt
