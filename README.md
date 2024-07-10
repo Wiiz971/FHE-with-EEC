@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 * Tools used for the project :
-    * [Python 3.10.13](https://www.python.org/downloads/release/python-3615/)
+    * [Python 3.10.13](https://www.python.org/downloads/release/python-31013/)
     * [Spider version 5.1.5](https://www.spyder-ide.org/)
     * [Visual Studio Code 1.86.2](https://code.visualstudio.com/download)
     * `numpy`==1.26.4
