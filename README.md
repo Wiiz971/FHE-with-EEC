@@ -9,6 +9,12 @@
 ```
 pip install -r requirements.txt
 ```
+```
+pip install pyOpenSSL
+
+(dépendences package LDAP) 
+sudo apt-get install libsasl2-dev python3-dev libldap2-dev libssl-dev
+```
 
 * Tools used for the project :
     * [Python 3.10.13](https://www.python.org/downloads/release/python-31013/)
