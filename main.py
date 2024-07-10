@@ -42,7 +42,6 @@ class DataAnonymizerFHE:
         else:
             self.private_key = secrets.randbelow(curve_order)
         print(self.private_key)
-        A = self.GF(3)
 
         print(type(self.private_key))
         # Convert private key to FQ element for operations
