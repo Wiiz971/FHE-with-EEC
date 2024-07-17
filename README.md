@@ -16,6 +16,8 @@ pip install pyOpenSSL
 sudo apt-get install libsasl2-dev python3-dev libldap2-dev libssl-dev
 ```
 ```
+pipreqs est un outil qui génère un fichier requirements.txt en se basant sur les imports trouvés dans le projet.
+
 pip install pipreqs
 pipreqs --force /workspaces/ZKP-research/groth16/
 ```
