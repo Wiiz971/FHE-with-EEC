@@ -15,6 +15,10 @@ pip install pyOpenSSL
 (dépendences package LDAP) 
 sudo apt-get install libsasl2-dev python3-dev libldap2-dev libssl-dev
 ```
+```
+pip install pipreqs
+pipreqs --force /workspaces/ZKP-research/groth16/
+```
 
 * Tools used for the project :
     * [Python 3.10.13](https://www.python.org/downloads/release/python-31013/)
